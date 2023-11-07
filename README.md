@@ -1,4 +1,6 @@
-</div>
+![Barbie Oppenheimer Beatles](https://github.com/mariaraquelbarbosa/barbie-oppenheimer/assets/122839919/9b361949-c988-4e25-9ddf-d11b38b8921e)
+
+<div>
 
 <div align="center">
 
@@ -8,7 +10,9 @@
 </div>
 
 # Overview
-Projeto de análise do interesse em pesquisa pelos termos "barbie" e "oppenheimer" no Google usando Python e Google Trends.
+Projeto de análise do interesse em pesquisa pelos termos "barbie" e "oppenheimer" no Google usando PyTrends.
 
 # Output
-![barbie_oppenheimer](https://github.com/mariaraquelbarbosa/barbie-oppenheimer/assets/122839919/213b93de-c74d-4c93-b705-5c2c4fd17e83)
+<div align="center">
+  <img src="https://github.com/mariaraquelbarbosa/barbie-oppenheimer/assets/122839919/213b93de-c74d-4c93-b705-5c2c4fd17e83" width="700">
+</div>
