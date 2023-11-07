@@ -10,7 +10,7 @@
 </div>
 
 # Overview
-Projeto de análise do interesse em pesquisa pelos termos "barbie" e "oppenheimer" no Google por países nos últimos 30 dias utilizando a biblioteca [PyTrends](https://pypi.org/project/pytrends/).
+Um projeto de análise do interesse em pesquisa pelos termos "barbie" e "oppenheimer" no Google na visão por países nos últimos 30 dias utilizando a biblioteca [PyTrends](https://pypi.org/project/pytrends/).
 
 # Output
 O output esperado do projeto é um mapa interativo, de modo que os países na cor rosa apresentaram maior interesse pelo termo "barbie" e os países na cor cinza apresentaram maior interesse pelo termo "oppenheimer" no mecanismo de busca, de modo similar a imagem a seguir:
